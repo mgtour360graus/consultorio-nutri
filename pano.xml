@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20938" appversion="7.1.4" hassounds="0" start="node15">
+  <panorama id="node15">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="117.015" projection="4" pan="1.53039"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node15" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="4.48" target="0.0/0.0/108.2" skinid="ht_node" id="Point01" title="" pan="-17.06" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 10:03" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node13" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="-3.46" target="176.0/0.0/100.0" skinid="ht_node" id="Point01" title="" pan="-182.36" url="{node15}"/>
+      <hotspot description="" tilt="13.2" target="92.0/0.0/108.2" skinid="ht_node" id="Point02" title="" pan="-356.88" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 09:37" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node2" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="-5.26" target="-92.0/0.0/108.2" skinid="ht_node" id="Point01" title="" pan="-83.71" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 09:43" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node3" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="-5.53" target="0.0/0.0/100.0" skinid="ht_node" id="Point01" title="" pan="-351.88" url="{node4}"/>
+      <hotspot description="" tilt="-3.05" target="92.0/0.0/108.2" skinid="ht_node" id="Point02" title="" pan="-267.72" url="{node2}"/>
+      <hotspot description="" tilt="-5.86" target="-178.0/0.0/108.2" skinid="ht_node" id="Point03" title="" pan="-53.95" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 09:47" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node4" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="-17.91" target="-89.0/0.0/117.0" skinid="ht_node" id="Point01" title="" pan="-291.47" url="{node5}"/>
+      <hotspot description="" tilt="-4.36" target="0.0/0.0/108.2" skinid="ht_node" id="Point02" title="" pan="-359.28" url="{node6}"/>
+      <hotspot description="" tilt="-4.4" target="-179.0/0.0/117.0" skinid="ht_node" id="Point03" title="" pan="-185.08" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 09:48" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node5" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="-9.28" target="-99.0/0.0/108.2" skinid="ht_node" id="Point01" title="" pan="-194.39" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 09:50" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node6" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="-8.19" target="1.0/0.0/108.2" skinid="ht_node" id="Point01" title="" pan="-225.38" url="{node7}"/>
+      <hotspot description="" tilt="-3.29" target="0.0/0.0/108.2" skinid="ht_node" id="Point02" title="" pan="-356.29" url="{node8}"/>
+      <hotspot description="" tilt="-1.33" target="175.0/0.0/108.2" skinid="ht_node" id="Point03" title="" pan="-173.82" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 09:51" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node7" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="-4.23" target="-88.0/0.0/108.2" skinid="ht_node" id="Point01" title="" pan="-201.42" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 09:53" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node8" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="0.73" target="90.0/0.0/108.2" skinid="ht_node" id="Point01" title="" pan="-210.8" url="{node9}"/>
+      <hotspot description="" tilt="-0.77" target="-22.0/0.0/117.0" skinid="ht_node" id="Point02" title="" pan="-332.15" url="{node10}"/>
+      <hotspot description="" tilt="-3.27" target="-178.0/0.0/108.2" skinid="ht_node" id="Point03" title="" pan="-178.03" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 09:55" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node9" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="-2.05" target="-98.0/0.0/108.2" skinid="ht_node" id="Point01" title="" pan="-181.16" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 09:56" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node10" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="2.52" target="-2.0/0.0/117.0" skinid="ht_node" id="Point01" title="" pan="-98.66" url="{node11}"/>
+      <hotspot description="" tilt="-2.4" target="-130.0/0.0/108.2" skinid="ht_node" id="Point02" title="" pan="-200.36" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 09:57" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node11" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="-16.84" target="1.0/0.0/117.0" skinid="ht_node" id="Point01" title="" pan="-252.99" url="{node12}"/>
+      <hotspot description="" tilt="-0.72" target="97.0/0.0/108.2" skinid="ht_node" id="Point02" title="" pan="-190.66" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="2750" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" leveltilesize="510" height="2750">
+      <level width="2750" preload="0" predecode="0" height="2750"/>
+      <level width="1375" preload="0" predecode="0" height="1375"/>
+      <level width="687" preload="0" predecode="0" height="687"/>
+      <level width="343" preload="1" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="140" scaletofit="1" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata source="" author="MGTOUR360GRAUS" tags="Pano2VR7" datetime="13/10/2023 09:58" copyright="MARCELO RIBEIRO   GUTIARA RI" customnodeid="" description="" info="" nodeid="node12" comment="" heading="0" latitude="" longitude="" title=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" background="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot description="" tilt="-7.36" target="-103.0/0.0/117.0" skinid="ht_node" id="Point01" title="" pan="-141.42" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomspeed="2" blendcolor="0x000000" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomin="0" zoomoutpause="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" contextprojections="0" invertcontrol="1" invertwheel="0" rubberband="0" lockedkeyboard="0" lockedmouse="0" contextvr="1" sensitivity="8" hideabout="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="" author="" comment="" tags="" copyright="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
